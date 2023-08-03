@@ -1,4 +1,9 @@
-# m7_evaluacion_s8
+# Curso Desarrollo de Aplicaciones Front-end Trainee 2023
+
+## Modulo 7 - Desarrollo de Aplicaciones Front-End con Framework Vue
+Sesión 8
+
+DRILLING: CREAR UNA WEB SIMPLE CON UNA LIBRERÍA UI
 
 ## Project setup
 ```
